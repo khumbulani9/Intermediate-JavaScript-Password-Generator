@@ -1,6 +1,15 @@
-# Module 5 Challenge: Password Generator
+# JavaScript-Fundamentals-Console-Finances
 
-## Overview
+## **_Table of contents_** 
+
+* [description of the assignment](#description-of-the-assignment)
+* [acceptance criteria](#acceptance-criteria)
+* [link url to deployed app on github](#link-url-to-deployed-app-on-github)
+* [website Page screenshot link url to github repository](#website-page-screenshot-link-url-to-github-repository)
+* [contact Link url to github repository](#contact-link-url-to-github-repository)
+* [Reference](#Reference)
+
+## Description of the assignment
 
 This week’s challenge requires you to create an application that an employee can use to generate a random password based on criteria they’ve selected by modifying starter code. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code that you write. It will have a clean and polished user interface that is responsive, ensuring that it adapts to multiple screen sizes.
 
