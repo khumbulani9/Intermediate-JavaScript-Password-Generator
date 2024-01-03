@@ -15,7 +15,7 @@ This week’s challenge requires you to create an application that an employee c
 
 The password can include special characters. If you’re unfamiliar with these, see this [list of Password Special Characters from the OWASP Foundation](https://www.owasp.org/index.php/Password_special_characters).
 
-## Instructions
+## Acceptance criteria
 
 The following image shows the web application's appearance and functionality:
 
@@ -82,6 +82,12 @@ You are required to submit the following for review:
 * The URL of the deployed application.
 
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+
+## Link URL to deployed app on GitHub
+
+## Contact-link URL to GitHub repository
+
+## Reference
 
 ---
 
