@@ -87,7 +87,11 @@ You are required to submit the following for review:
 
 ## Contact-link URL to GitHub repository
 
+https://github.com/khumbulani9/Intermediate-JavaScript-Password-Generator/blob/main/README.md
+
 ## Reference
+
+https://bootcampspot.instructure.com/courses/5651/assignments/67065?module_item_id=1145576
 
 ---
 
