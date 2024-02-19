@@ -85,6 +85,7 @@ You are required to submit the following for review:
 
 ## Link URL to deployed app on GitHub
 
+https://khumbulani9.github.io/Intermediate-JavaScript-Password-Generator/
 
 
 ## Contact-link URL to GitHub repository
